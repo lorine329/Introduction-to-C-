@@ -1,6 +1,3 @@
-// COMP 322 Assignment 2
-// Ge Gao 260893304
-
 #include <iostream>
 #include <fstream>
 #include <string>
